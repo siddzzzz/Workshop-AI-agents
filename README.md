@@ -1,4 +1,4 @@
-# Agentic AI Hands-on Session
+# Agentic AI Hands-on Session by siddharth and aarushi
 
 Welcome to the Agentic AI Hands-on Workshop! In this repository, you'll learn how to build AI agents from scratch using the Gemini API.
 
